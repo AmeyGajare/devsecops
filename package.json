@@ -1,0 +1,8 @@
+{
+  "name": "secure-weather-app",
+  "version": "1.0.0",
+  "description": "Secure Weather App for CI/CD",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
